@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I'm Amitesh Pandey.✌️
 Being an enthusiastic Post Graduate Engineer, have worked in the Tech industries since 3+ years with different technology and domains. Thus, I believe in Learning, by adapting a new technology using ELE concept: 
-E -> exploring,
+E -> exploring, <\br>
 L -> learning, 
 E -> Executing it instantly.
 
