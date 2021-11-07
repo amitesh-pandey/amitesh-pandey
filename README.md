@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Amitesh Pandey- ## Software Machine Leaning Engineer ✌️
+# I'm Amitesh Pandey ✌️
 Being an enthusiastic Post Graduate Engineer, I have been working in the Tech industries since 3+ years with different technology and domains. Thus, I believe in Learning, by adapting a new technology using ELE concept: </br>
 E -> Exploring new technology, </br>
 L -> Learning it conceptually , </br>
 E -> Executing it instantly.</br>
 
-💖 Currently working as a Software Engineer - Machine Learning, in the Cyber Security domain dealing with implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level and performing a white box testing of those alerts for the Quality analysis of the product.
+💖 Currently working as a # Software Engineer - Machine Learning, in the Cyber Security domain dealing with implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level and performing a white box testing of those alerts for the Quality analysis of the product.
 
 🌈 I am skilled in some of domain mentioned below:
 1. Python Libraries: Pandas, Sklearn, Matplotlib, Seaborn, Tensorflow, Keras, Beautiful Soup, Spacy
