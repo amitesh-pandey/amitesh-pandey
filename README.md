@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Amitesh Pandey.✌️
+Being an enthusiastic Post Graduate Engineer, have worked in the Tech industries since 3+ years with different technology and domains. Thus, I believe in Learning, by adapting a new technology using ELE concept: 
+E -> exploring,
+L -> learning, 
+E -> Executing it instantly.
+
+💖 Currently working as a Software Engineer - Machine Learning, in the Cyber Security domain dealing with implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level and performing a white box testing of those alerts for the Quality analysis of the product.
+
+🌈 I am skilled in some of domain mentioned below:
+1. Python Libraries: Pandas, Sklearn, Matplotlib, Seaborn, Tensorflow, Keras, Beautiful Soup, Spacy
+2. Domain Knowledge: Machine Learning || Deep Learning || Natural Language Processing
+3. Programming IDE: Jupiter Notebook || Pycharm || Spyder
+4. Operating System: Windows || Linux (Ubuntu)
+5. Deployment platform: Flask || Postman || Heroku
+6. Database: MySQL || MongoDB
+7. Additional: GitHub/GitLab || Software Defined Radio
+
+:shipit: How to reach me:
+
+📍 Email : pamitesh123@gmail.com
+
+📍 Linkedin : https://www.linkedin.com/in/amiteshpandey-1992/
